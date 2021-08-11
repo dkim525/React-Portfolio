@@ -1,0 +1,29 @@
+.header {
+    background-color:#bbb2e9;
+    padding: 10px;
+}
+ul {
+    list-style-type: none;
+    margin: 0 auto;
+    padding: 0;
+    width: 90%;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    align-items: center;
+    font-family: 'New Century Schoolbook' serif;
+}
+nav button {
+    -webkit-appearance: none;
+    appearance: none;
+    vertical-align: middle;
+    color: inherit;
+    font: inherit;
+    border: 0;
+    background: transparent;
+    padding: 0;
+    margin: 0;
+    outline: 0;
+    border-radius: 0;
+    text-align: inherit;
+  }
