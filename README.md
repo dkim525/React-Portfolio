@@ -9,6 +9,7 @@ This is an updated portfolio that includes useful contact links, links to class 
 
 1. [Links](#Links)
 2. [Technologies Used](#Technologies-Used)
+3. [Installation](#Installation)
 
 ---
 
@@ -24,3 +25,6 @@ This is an updated portfolio that includes useful contact links, links to class 
 * Javascript
 * React
 * Font-Awesome
+
+## **Installation**
+To run locally install needed modules then use npm start.
